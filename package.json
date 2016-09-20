@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/prateekbh/gulp-optimize-js#readme",
   "dependencies": {
-    "optimize-js": "^1.0.0"
+    "optimize-js": "^1.0.0",
+    "through2": "^2.0.1"
   }
 }
