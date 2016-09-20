@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/prateekbh/gulp-optimize-js.git"
   },
-  "keywords": [],
+  "keywords": ["gulp","optimize-js","javascript"],
   "author": "Prateek Bhatnagar",
   "license": "MIT",
   "bugs": {
