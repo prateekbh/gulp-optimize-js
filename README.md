@@ -15,11 +15,11 @@ npm install gulp-optimize-js --save-dev
 ## Usage
 
 ```javascript
-var optimisejs = require('gulp-optimise-js');
+var optimizejs = require('gulp-optimize-js');
 
 gulp.task('optimize', function() {
   gulp.src('./js/minified.js')
-    .pipe(optimisejs())
+    .pipe(optimizejs())
     .pipe(gulp.dest('./dist/'))
 });
 ```
