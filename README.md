@@ -24,7 +24,8 @@ gulp.task('optimize', function() {
 });
 ```
 
-Please consult [optimize-js](https://github.com/nolanlawson/optimize-js) for
+Please consult
+[optimize-js](https://github.com/nolanlawson/optimize-js#javascript-api) for
 available options.
 
 _Note: Make sure to only pipe JavaScript files into optimizejs!_
