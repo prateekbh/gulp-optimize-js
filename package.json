@@ -1,6 +1,6 @@
 {
   "name": "gulp-optimize-js",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -19,6 +19,7 @@
   "homepage": "https://github.com/prateekbh/gulp-optimize-js#readme",
   "dependencies": {
     "gulp-util": "^3.0.7",
+    "lodash": "^4.16.2",
     "optimize-js": "^1.0.0",
     "through2": "^2.0.1"
   }

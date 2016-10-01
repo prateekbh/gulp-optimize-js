@@ -19,10 +19,15 @@ var optimizejs = require('gulp-optimize-js');
 
 gulp.task('optimize', function() {
   gulp.src('./js/minified.js')
-    .pipe(optimizejs())
+    .pipe(optimizejs(options))
     .pipe(gulp.dest('./dist/'))
 });
 ```
+
+Please consult [optimize-js](https://github.com/nolanlawson/optimize-js) for
+available options.
+
+_Note: Make sure to only pipe JavaScript files into optimizejs!_
 
 ## LICENSE
 
