@@ -1,5 +1,7 @@
 # gulp-optimize-js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/prateekbh/gulp-optimize-js.svg)](https://greenkeeper.io/)
+
 Gulp plugin for [optimize-js](https://github.com/nolanlawson/optimize-js)
 
 Thanks to @nolanlawson for his awesome work.
